@@ -49,10 +49,6 @@ License: CC BY-SA 4.0
 
 (To be updated after completing the analysis.)
 
-## Dashboard Preview
-
-![Dashboard](images/dashboard_preview.png)
-
 ## Repository Structure
 
 - data/

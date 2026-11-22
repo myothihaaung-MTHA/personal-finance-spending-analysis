@@ -2,71 +2,50 @@
 
 ## Project Overview
 
-This project explores personal finance and spending behavior using a dataset of 20,000 individuals from India.
+This project analyzes personal finance data from 20,000 individuals in India to understand income distribution, monthly spending patterns, and savings opportunities.
 
-The analysis focuses on understanding income distribution, monthly household expenses, savings goals, and potential opportunities to optimize spending.
-
-The goal is to transform raw financial data into meaningful insights that can support better financial understanding and data-driven decision-making.
+The goal is to discover meaningful financial patterns and generate data-driven insights that can help individuals better understand their spending behavior and identify potential areas for cost optimization.
 
 ## Business Objectives
 
-- Analyze income distribution across individuals.
-- Understand monthly household spending patterns.
-- Identify the largest expense categories.
-- Compare spending behavior across different age groups.
-- Examine the relationship between income, expenses, and savings goals.
-- Identify potential cost optimization and savings opportunities.
+- Analyze income distribution among individuals.
+- Understand monthly spending behavior across different expense categories.
+- Compare spending patterns across age groups.
+- Evaluate desired savings goals and actual financial indicators.
+- Identify potential cost optimization opportunities.
 
 ## Dataset Information
 
-| Item | Description |
-|---|---|
-| Dataset | Indian Personal Finance and Spending Habits |
-| Source | Kaggle |
-| Author | Shriyash Jagtap |
-| Records | 20,000 individuals |
-| Country | India |
-| License | CC BY-SA 4.0 |
+- **Dataset:** Indian Personal Finance and Spending Habits
+- **Source:** Kaggle
+- **Author:** Shriyash Jagtap
+- **Records:** 20,000 individuals
+- **License:** CC BY-SA 4.0
 
 ## Tools & Technologies
 
-- **Python** – Main programming language
-- **Pandas** – Data manipulation and analysis
-- **NumPy** – Numerical operations
-- **Matplotlib** – Data visualization
-- **Seaborn** – Statistical visualization
-- **Jupyter Notebook** – Interactive analysis
-- **Git & GitHub** – Version control and project documentation
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
+- Git & GitHub
 
 ## Project Workflow
 
-### 01. Data Understanding
-- Load and inspect the raw dataset.
-- Understand dataset structure and data types.
-- Check missing values and duplicate records.
-- Explore numerical and categorical variables.
-- Review distributions, outliers, and correlations.
+1. **Data Understanding** – Explore the dataset structure, data types, missing values, and basic statistics.
+2. **Data Cleaning** – Handle duplicate records, standardize column names, check data types, and validate data quality.
+3. **Exploratory Data Analysis (EDA)** – Analyze income distribution, expense patterns, savings behavior, and relationships between financial variables.
+4. **Business Insights & Recommendations** – Summarize key findings and provide data-driven recommendations based on the analysis.
 
-### 02. Data Cleaning
-- Standardize column names and categorical values.
-- Convert numerical columns into appropriate data types.
-- Identify invalid and suspicious values.
-- Remove exact duplicate records.
-- Validate and export the cleaned dataset.
+## Key Findings
 
-### 03. Exploratory Data Analysis (EDA)
-- Analyze income distribution.
-- Evaluate spending by expense category.
-- Explore income and savings relationships.
-- Compare financial patterns across age groups.
-- Analyze spending by occupation and city tier.
-- Evaluate potential savings opportunities.
+*To be updated after completing the exploratory data analysis.*
 
-### 04. Business Insights & Recommendations
-- Summarize key findings from the analysis.
-- Identify major spending categories.
-- Highlight potential cost optimization areas.
-- Develop data-driven financial recommendations.
+## Business Recommendations
+
+*To be added based on the final analysis results.*
 
 ## Repository Structure
 
@@ -93,21 +72,9 @@ Personal-Finance-Spending-Analysis/
 └── .gitignore
 ```
 
-## Key Findings
-
-*To be updated after completing the exploratory data analysis.*
-
-This section will summarize the most important findings, supported by statistical results and visualizations.
-
-## Business Recommendations
-
-*To be developed based on the analysis findings.*
-
-Recommendations will focus on spending optimization, savings opportunities, and financial behavior patterns.
-
 ## Disclaimer
 
-This project is intended for educational and portfolio purposes. The findings are based on the supplied dataset and should not be interpreted as professional financial advice.
+This project is created for educational and portfolio purposes. The analysis is based on the provided Kaggle dataset and does not represent the financial situation of every individual in India.
 
 ## Author
 

@@ -105,10 +105,6 @@ This section will summarize the most important findings, supported by statistica
 
 Recommendations will focus on spending optimization, savings opportunities, and financial behavior patterns.
 
-## Project Status
-
-<text>In Progress — Data Exploration, Data Cleaning, and Exploratory Data Analysis.</text>
-
 ## Disclaimer
 
 This project is intended for educational and portfolio purposes. The findings are based on the supplied dataset and should not be interpreted as professional financial advice.

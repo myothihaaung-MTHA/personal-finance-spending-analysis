@@ -41,9 +41,7 @@ License: CC BY-SA 4.0
 1. Data Understanding
 2. Data Cleaning
 3. Exploratory Data Analysis
-4. SQL Business Analysis
-5. Power BI Dashboard
-6. Business Insights & Recommendations
+4. Business Insights & Recommendations
 
 ## Key Findings
 
@@ -53,6 +51,3 @@ License: CC BY-SA 4.0
 
 - data/
 - notebooks/
-- sql/
-- powerbi/
-- images/
